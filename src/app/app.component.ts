@@ -8,5 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'precommit-sample';
 
-  public run(): void {}
+  public run(): void {
+  }
 }
